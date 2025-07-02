@@ -6,3 +6,4 @@ xlsxwriter
 reportlab
 python-dateutil
 streamlit-aggrid
+plotly
